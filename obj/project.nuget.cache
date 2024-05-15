@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yu2xlOnZay8RJH8JLkNIKRMLxEuecLQM0RFTO5bIKRqIvcjBjRr1rYypagksV5V9M5mMavQwicUdIXKzPmPXtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JakeKuo\\source\\repos\\化合物半導體生產流程簽核平台\\化合物半導體生產流程簽核平台.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JakeKuo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
